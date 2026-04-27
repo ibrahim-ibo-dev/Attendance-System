@@ -1,0 +1,126 @@
+# Runtime logs are appended here by main.py
+2026-04-27 20:03:01,223 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 20:03:01,242 [INFO] [MainThread] ✓ 1 teacher(s) loaded
+2026-04-27 20:03:01,655 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 20:03:12,384 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 20:03:13,037 [INFO] [MainThread] Class 'math' Session #34 scheduled for 10:00. Waiting for teacher...
+2026-04-27 20:03:13,042 [INFO] [Thread-1 (_wait_for_teacher)] ❌ Class cancelled: Teacher didn't arrive within 20 minutes of scheduled time
+2026-04-27 20:03:13,218 [INFO] [Thread-2 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 20:03:13,219 [INFO] [Thread-2 (_run_teacher_detection)] Attendance stop signal received. Closing camera session.
+2026-04-27 20:03:13,242 [INFO] [Thread-2 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 20:03:13,243 [INFO] [Thread-2 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 20:03:17,176 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 20:03:18,291 [INFO] [MainThread] Class 'math' Session #35 scheduled for 10:00. Waiting for teacher...
+2026-04-27 20:03:18,295 [INFO] [Thread-3 (_wait_for_teacher)] ❌ Class cancelled: Teacher didn't arrive within 20 minutes of scheduled time
+2026-04-27 20:03:18,435 [INFO] [Thread-4 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 20:03:18,435 [INFO] [Thread-4 (_run_teacher_detection)] Attendance stop signal received. Closing camera session.
+2026-04-27 20:03:18,444 [INFO] [Thread-4 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 20:03:18,446 [INFO] [Thread-4 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 20:03:48,372 [INFO] [MainThread] Class 'math' Session #36 scheduled for 08:00. Waiting for teacher...
+2026-04-27 20:03:48,376 [INFO] [Thread-5 (_wait_for_teacher)] ❌ Class cancelled: Teacher didn't arrive within 20 minutes of scheduled time
+2026-04-27 20:03:48,517 [INFO] [Thread-6 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 20:03:48,517 [INFO] [Thread-6 (_run_teacher_detection)] Attendance stop signal received. Closing camera session.
+2026-04-27 20:03:48,526 [INFO] [Thread-6 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 20:03:48,533 [INFO] [Thread-6 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 20:04:15,565 [INFO] [MainThread] Class 'math' Session #37 scheduled for 20:00. Waiting for teacher...
+2026-04-27 20:04:15,705 [INFO] [Thread-8 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 20:04:33,996 [INFO] [Thread-8 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 20:04:33,998 [INFO] [Thread-8 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 21:14:03,355 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:14:03,379 [INFO] [MainThread] ✓ 1 teacher(s) loaded
+2026-04-27 21:14:03,844 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 21:14:43,779 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 21:14:44,675 [INFO] [MainThread] Class 'math' Session #38 scheduled for 21:15. Waiting for teacher...
+2026-04-27 21:14:44,679 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:14:44,915 [INFO] [Thread-2 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 21:14:44,915 [INFO] [Thread-2 (_run_teacher_detection)] ⚠️  CNN requested but CUDA dlib not detected; falling back to HOG.
+2026-04-27 21:15:04,920 [INFO] [Thread-2 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 21:15:04,927 [INFO] [Thread-2 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 21:15:07,151 [INFO] [MainThread] Class 'math' Session #39 scheduled for 21:15. Waiting for teacher...
+2026-04-27 21:15:07,155 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:15:07,293 [INFO] [Thread-4 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 21:15:07,293 [INFO] [Thread-4 (_run_teacher_detection)] ⚠️  CNN requested but CUDA dlib not detected; falling back to HOG.
+2026-04-27 21:15:18,524 [INFO] [Thread-4 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 21:15:18,533 [INFO] [Thread-4 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 21:17:45,398 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:17:45,413 [INFO] [MainThread] ✓ 1 teacher(s) loaded
+2026-04-27 21:17:45,739 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 21:20:07,172 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 21:20:14,618 [INFO] [MainThread] Class 'math' Session #40 scheduled for 22:00. Waiting for teacher...
+2026-04-27 21:20:14,622 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:20:14,849 [INFO] [Thread-2 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 21:20:14,850 [INFO] [Thread-2 (_run_teacher_detection)] ⚠️  CNN requested but CUDA dlib not detected; falling back to HOG.
+2026-04-27 21:21:30,099 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:21:30,118 [INFO] [MainThread] ✓ 1 teacher(s) loaded
+2026-04-27 21:21:30,456 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 21:21:44,903 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 21:21:45,645 [INFO] [MainThread] Class 'math' Session #41 scheduled for 22:00. Waiting for teacher...
+2026-04-27 21:21:45,648 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:21:45,811 [INFO] [Thread-2 (_run_teacher_detection)] 📷 Camera active. Waiting for teacher... Press C or ESC to stop.
+2026-04-27 21:21:45,811 [INFO] [Thread-2 (_run_teacher_detection)] ⚠️  CNN requested but CUDA dlib not detected; falling back to HOG.
+2026-04-27 21:21:54,209 [INFO] [Thread-2 (_run_teacher_detection)] Absent: ali qasm, ledwan
+2026-04-27 21:21:54,215 [INFO] [Thread-2 (_run_teacher_detection)] ✓ Attendance session completed
+2026-04-27 21:26:43,679 [INFO] [MainThread] Exported CSV to attendance_math_2026-04-27.csv
+2026-04-27 21:26:53,408 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 21:27:26,951 [INFO] [MainThread] 📷 Camera opened for teacher. SPACE=capture, C=finish
+2026-04-27 21:27:31,179 [INFO] [MainThread] ✓ Captured teacher face #1
+2026-04-27 21:27:33,170 [INFO] [MainThread] ✓ Captured teacher face #2
+2026-04-27 21:27:34,091 [INFO] [MainThread] ❌ No face found. Try again.
+2026-04-27 21:27:35,359 [INFO] [MainThread] ❌ No face found. Try again.
+2026-04-27 21:27:36,942 [INFO] [MainThread] ✓ Captured teacher face #3
+2026-04-27 21:27:39,893 [INFO] [MainThread] ✓ Captured teacher face #4
+2026-04-27 21:27:41,087 [INFO] [MainThread] ✓ Captured teacher face #5
+2026-04-27 21:27:41,901 [INFO] [MainThread] ❌ No face found. Try again.
+2026-04-27 21:27:48,198 [INFO] [MainThread] ✓ Successfully captured 5 teacher face(s)
+2026-04-27 21:27:51,823 [INFO] [MainThread] ✓ Added teacher تر?رتيکئ (id=2) with 5 encoding(s).
+2026-04-27 21:27:51,828 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 21:27:57,753 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 21:28:46,635 [INFO] [MainThread] Loaded 1 class(es).
+2026-04-27 21:29:11,829 [INFO] [MainThread] ✓ Generated report for 2026-04-27 to 2026-04-27
+2026-04-27 21:29:24,756 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:29:25,076 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:29:25,620 [INFO] [MainThread] No attendance records found for 2026-04-26
+2026-04-27 21:29:33,508 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:30:15,974 [INFO] [MainThread] ✓ Generated report for 2026-04-27 to 2026-04-27
+2026-04-27 21:30:16,534 [INFO] [MainThread] ✓ Generated report for 2026-04-27 to 2026-04-27
+2026-04-27 21:30:16,711 [INFO] [MainThread] ✓ Generated report for 2026-04-27 to 2026-04-27
+2026-04-27 21:30:16,894 [INFO] [MainThread] ✓ Generated report for 2026-04-27 to 2026-04-27
+2026-04-27 21:31:40,964 [INFO] [MainThread] ✓ Class 'nglish' created successfully
+2026-04-27 21:31:40,966 [INFO] [MainThread] Loaded 2 class(es).
+2026-04-27 21:31:47,280 [INFO] [MainThread] Loaded 2 class(es).
+2026-04-27 21:31:50,635 [INFO] [MainThread] Class 'nglish' Session #1 scheduled for 22:00. Waiting for teacher...
+2026-04-27 21:31:50,636 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:31:55,211 [INFO] [MainThread] Class 'nglish' Session #2 scheduled for 22:00. Waiting for teacher...
+2026-04-27 21:31:55,212 [INFO] [MainThread] Detector: model=cnn, upsample=0, cnn_scale=0.25 | dlib_cuda=False, cuda_devices=0
+2026-04-27 21:41:35,732 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:41:35,789 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 21:41:36,156 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 21:41:44,900 [INFO] [MainThread] ✓ Student 'ledwan' updated
+2026-04-27 21:41:52,756 [INFO] [MainThread] ✓ Generated report for 2026-04-20 to 2026-04-27
+2026-04-27 21:41:57,423 [INFO] [MainThread] Exported report to C:/Users/Tech Line/Downloads/attendance_report_2026-04-20_to_2026-04-27.csv
+2026-04-27 21:42:23,394 [INFO] [MainThread] ✓ Warnings refreshed: 4 records, 4 warnings
+2026-04-27 21:57:59,487 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 21:57:59,600 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 21:57:59,913 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 21:58:00,060 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:07,651 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:08,214 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:08,398 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:08,614 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:08,836 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 21:58:09,030 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 22:21:39,915 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 22:21:40,027 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 22:21:40,362 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 22:21:40,494 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 22:21:46,754 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 22:21:56,278 [INFO] [MainThread] ✓ Student 'ismahil' updated
+2026-04-27 22:22:29,092 [INFO] [MainThread] ✓ Generated report for 2026-04-01 to 2026-04-27
+2026-04-27 22:22:50,178 [INFO] [MainThread] Exported report to C:/Users/Tech Line/Downloads/attendance_report_2026-04-01_to_2026-04-27.csv
+2026-04-27 22:24:35,756 [INFO] [MainThread] ✓ Found 7 date(s) with attendance records
+2026-04-27 22:24:35,866 [INFO] [MainThread] ✓ 2 teacher(s) loaded
+2026-04-27 22:24:36,167 [INFO] [MainThread] ✓ Camera detected at index 0
+2026-04-27 22:24:36,282 [INFO] [MainThread] ✓ Dashboard charts refreshed
+2026-04-27 22:24:47,051 [INFO] [MainThread] Exported PDF report to C:/Users/Tech Line/Downloads/Report_Card_ali_qasm_2026-04-27.pdf
+2026-04-27 22:25:11,946 [INFO] [MainThread] ✓ Generated report for 2026-03-01 to 2026-03-31
+2026-04-27 22:25:19,223 [INFO] [MainThread] Exported PDF report to C:/Users/Tech Line/Downloads/Report_Card_ibrahim_hussein_2026-04-27.pdf
